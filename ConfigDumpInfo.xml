@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Catalog.Карты" id="5134c48e-d1b5-4236-9b0e-1c0c48a8c7bb" configVersion="061eafa0e9e02441a9a9badf7de52d4500000000">
+			<Metadata name="Catalog.Карты.Attribute.Картинка" id="29b3b3cf-f3cc-49c1-b409-db520ad9c649"/>
+			<Metadata name="Catalog.Карты.Attribute.Клиент" id="31cdbae3-44d5-40b4-8fad-5b2b25f00b3a"/>
+			<Metadata name="Catalog.Карты.Attribute.НомерКарты" id="90471a11-e510-43c8-94c4-6ca4ce89de8f"/>
+		</Metadata>
+		<Metadata name="Catalog.Карты.Form.ФормаЭлемента" id="7d668339-6a81-47c8-bf6e-74e4c6c8ebf9" configVersion="d24ff272f2f1a5408b10fd50c9a8f79e00000000"/>
+		<Metadata name="Catalog.Карты.Form.ФормаЭлемента.Form" id="7d668339-6a81-47c8-bf6e-74e4c6c8ebf9.0" configVersion="bf215616baa5e64bb3f67f7444a8c74300000000"/>
+		<Metadata name="Catalog.Клиенты" id="2443b470-10b2-4ad9-9240-b8061f46e5a0" configVersion="dbe769211dc1e74bb19b0c1f92ede33500000000">
+			<Metadata name="Catalog.Клиенты.Attribute.ЭлектроннаяПочта" id="366830e2-0867-457e-bee4-8135d3fb7b98"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ДатаРождения" id="5354532c-78f0-41c1-ac71-1407070f4c32"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Телефон" id="5e4c91f1-75f9-49c7-9fd0-96161572fcf0"/>
+			<Metadata name="Catalog.Клиенты.Attribute.Адрес" id="894f4665-e56e-41b3-adc5-0356d2289602"/>
+			<Metadata name="Catalog.Клиенты.Attribute.ИмяКлиента" id="d0a75159-a213-4156-a914-525ee767ba72"/>
+		</Metadata>
+		<Metadata name="Catalog.Клиенты.Form.СписокКлиентов" id="4ef50356-b56f-4fca-a32d-044a566dd86b" configVersion="daff90015ba9a64c86587eb52b77c3f600000000"/>
+		<Metadata name="Catalog.Клиенты.Form.СписокКлиентов.Form" id="4ef50356-b56f-4fca-a32d-044a566dd86b.0" configVersion="546d3e94c512b74ba9657bebc5769f4d00000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента" id="0a86f637-8bf0-4994-94e0-b9f35061f24d" configVersion="2d379883030ec74ea48849d9b452014600000000"/>
+		<Metadata name="Catalog.Клиенты.Form.ФормаКлиента.Form" id="0a86f637-8bf0-4994-94e0-b9f35061f24d.0" configVersion="90b5a12a11655f489eba154cf338b7a800000000"/>
+		<Metadata name="Catalog.Операции" id="c34a28e1-26ad-4e11-9c00-05433c68b4d1" configVersion="627b7a0e9740b24db5956d9fb529a48c00000000">
+			<Metadata name="Catalog.Операции.Attribute.СтатусОперации" id="08c2831f-c344-455d-b59a-37e73eb65a6e"/>
+			<Metadata name="Catalog.Операции.Attribute.НомерКарты" id="1c16d6c5-ca83-4b43-9dbc-96ca87baf8c3"/>
+			<Metadata name="Catalog.Операции.Attribute.ОписаниеПолучателля" id="516dfe52-40ed-487a-a4a4-b0a9893db23a"/>
+			<Metadata name="Catalog.Операции.Attribute.Комментарий" id="7a285568-ac18-4b59-8743-e4db7c368eca"/>
+			<Metadata name="Catalog.Операции.Attribute.Комиссия" id="af8ccb7e-c5d5-4f07-b596-74a7bcd66407"/>
+			<Metadata name="Catalog.Операции.Attribute.НазначениеПлатежа" id="e6588e21-2a8a-4646-ae5e-a7124b18de3b"/>
+			<Metadata name="Catalog.Операции.Attribute.Валюта" id="f45c4aa0-05e6-407b-8ad4-ae2261fe9708"/>
+		</Metadata>
+		<Metadata name="Catalog.Операции.Form.ФормаЭлемента" id="bee7c2e0-fda6-4ee9-b98b-7ffaaa02cf92" configVersion="53b31e259ca03a47aa956bef09f9ede700000000"/>
+		<Metadata name="Catalog.Операции.Form.ФормаЭлемента.Form" id="bee7c2e0-fda6-4ee9-b98b-7ffaaa02cf92.0" configVersion="920d803f8b6f0b41adb1061c56aceae200000000"/>
+		<Metadata name="Catalog.СчетаКлиентов" id="8913c070-2cc6-448e-b2af-c27d7cd868c1" configVersion="67468863508fac4da74588be06b68dbc00000000">
+			<Metadata name="Catalog.СчетаКлиентов.Attribute.НазваниеСчета" id="8ab64e07-963d-4650-9ced-bab210eb5b91"/>
+			<Metadata name="Catalog.СчетаКлиентов.Attribute.Клиент" id="902f55d9-dad6-4c6b-8c95-d2dd5f8db0c0"/>
+			<Metadata name="Catalog.СчетаКлиентов.Attribute.НомерСчета" id="e1796d51-f82c-4dd0-ade5-42a2adb99a7a"/>
+			<Metadata name="Catalog.СчетаКлиентов.Attribute.Баланс" id="e7c2fb45-5d08-43fc-9e6d-518070109657"/>
+		</Metadata>
+		<Metadata name="Catalog.СчетаКлиентов.Form.ФормаЭлемента" id="58375242-b3d5-429c-bda1-c65255df223e" configVersion="cadc404cf863854088361e0f213b6afe00000000"/>
+		<Metadata name="Catalog.СчетаКлиентов.Form.ФормаЭлемента.Form" id="58375242-b3d5-429c-bda1-c65255df223e.0" configVersion="1de2a004342b0f45a9cbff16252ca3ed00000000"/>
+		<Metadata name="Catalog.Файлы" id="d6b47840-7599-49d0-bc1a-6fbdd65c6ba3" configVersion="23145ca39ea5cc4785b1e84c29820ae600000000">
+			<Metadata name="Catalog.Файлы.Attribute.Файл" id="4a4aa4ee-9f05-42f3-92fe-9e8576b9d52b"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="2f7bb539-8e4a-41b2-bcce-17a0261aa81a" configVersion="17c385d431bf28419ee352e62723dec100000000"/>
+		<Metadata name="Document.БанковскаяОперация" id="90f603dd-a480-42eb-a0c1-9c3a9840785d" configVersion="130e7731dc698a4d82a81f1e00a9f2b300000000">
+			<Metadata name="Document.БанковскаяОперация.Attribute.Сумма" id="09e7ae29-b117-4c31-9c73-4ed408c73079"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Счет" id="10903c22-2fb2-4b60-b54d-3f16693fbda1"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.ДатаОперации" id="1b234782-de54-42f0-a124-d2ab5e10c50a"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.ОписаниеПолучателя" id="2dfde2e7-a248-4e40-ba28-6772738622ca"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Описание" id="321bf2be-40b5-47fb-83da-43bef46d1c9c"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Клиент" id="4da09d53-c9a5-4d36-a996-85211ed4c60f"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.НазначениеПлатежа" id="72d5e301-c95f-48a5-9d8d-33bd603ecc13"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.СтатусОперации" id="9a7e8693-c4cc-4c98-9874-1786bab7a6dd"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.ТипОперации" id="c11a2489-447e-4bb3-a32a-e24fc2a20a6d"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.НомерКарты" id="c91bca3a-cb76-4251-997b-a481618b9d0f"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Валюта" id="d8254e03-0430-4df6-9231-4b58deb75c3a"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Комментарий" id="e9a4d956-c921-4774-9310-bd1f7e21bcf0"/>
+			<Metadata name="Document.БанковскаяОперация.Attribute.Комиссия" id="fcecc1b7-388f-4b40-8c70-966e02a00a0f"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="24f9d16f-f9aa-4cf8-afaa-bdf20c225906" configVersion="1b111898ed14bc4ebd9121194d4df40e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
